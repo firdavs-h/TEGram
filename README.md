@@ -2,7 +2,7 @@
 Photo sharing app. Developed utilizing Java, PostgreSQL, JDBC, Spring Boot, JSON, RESTful API on back-end and Vue.js, JavaScript, HTML, CSS, Bootstrap on front-end.
 Image host: cloudinary.com
 
-[Deployed link](https://image-client.herokuapp.com/) 
+[Deployed link](https://tegramphoto.herokuapp.com/) 
 
 After click if page is not loading, wait 5 min and try again. (Heroku shuts server off if idle and requires time to reboot)
 
